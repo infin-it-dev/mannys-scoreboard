@@ -1,0 +1,15 @@
+{
+    "netbeans.jdkhome": "c:\\Users\\infin_it_dev\\.gradle\\jdks\\eclipse_adoptium-17-amd64-windows\\jdk-17.0.12+7",
+    "netbeans.project.jdkhome": "c:\\Users\\infin_it_dev\\.gradle\\jdks\\eclipse_adoptium-17-amd64-windows\\jdk-17.0.12+7",
+    "java.jdt.ls.java.home": "c:\\Users\\infin_it_dev\\.gradle\\jdks\\eclipse_adoptium-17-amd64-windows\\jdk-17.0.12+7",
+    "terminal.integrated.env.windows": {
+        "JAVA_HOME": "c:\\Users\\infin_it_dev\\.gradle\\jdks\\eclipse_adoptium-17-amd64-windows\\jdk-17.0.12+7",
+        "PATH": "c:\\Users\\infin_it_dev\\.gradle\\jdks\\eclipse_adoptium-17-amd64-windows\\jdk-17.0.12+7\\bin;${env:PATH}"
+    },
+    "maven.terminal.customEnv": [
+        {
+            "environmentVariable": "JAVA_HOME",
+            "value": "c:\\Users\\infin_it_dev\\.gradle\\jdks\\eclipse_adoptium-17-amd64-windows\\jdk-17.0.12+7"
+        }
+    ]
+}
